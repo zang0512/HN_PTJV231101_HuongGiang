@@ -1,0 +1,52 @@
+{
+  "employee": [
+    {
+      "id": "82d9",
+      "userName": "An",
+      "address": "Hà nội",
+      "dateOfBirth": "2011-03-14",
+      "email": "an@gmail.com",
+      "status": 1
+    },
+    {
+      "id": "2361",
+      "userName": "Giang",
+      "address": "việt nam",
+      "dateOfBirth": "2024-01-31",
+      "email": "an@gmail.com",
+      "status": 1
+    },
+    {
+      "id": "b6e6",
+      "userName": "bin",
+      "address": "thái bình",
+      "dateOfBirth": "2024-01-30",
+      "email": "bin@gmail.vn",
+      "status": 1
+    },
+    {
+      "id": "1c42",
+      "userName": "quỳnh",
+      "address": "hải phòng",
+      "dateOfBirth": "2009-06-25",
+      "email": "tranquynh@gmail.com",
+      "status": 1
+    },
+    {
+      "id": "43d7",
+      "userName": "xuân",
+      "address": "hải dương",
+      "dateOfBirth": "2012-06-07",
+      "email": "xunie@yahoo.vn",
+      "status": 1
+    },
+    {
+      "id": "554a",
+      "userName": "tim",
+      "address": "aosod  ",
+      "dateOfBirth": "2024-02-01",
+      "email": "hasdh@gmal.com",
+      "status": 1
+    }
+  ]
+}
